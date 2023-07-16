@@ -1,6 +1,6 @@
 import React from "react";
 import { Flex, Link, Box, Image, chakra } from "@chakra-ui/react";
-import { cards } from "../assets/data/data";
+// import { cards } from "../assets/data/data";
 
 
 function Header() {
